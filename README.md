@@ -8,21 +8,21 @@ En el nivel 1, la nave va a una velocidad estándar, los asteroides que tiene qu
 </p>
 
 ## Nivel 2
-En el nivel 2 la nave después de esquivar los asteroides pequeños tendrá que lidiar con unos asteroides más grandes lo que hace  necesario el cambio de las municiones de la nave para poder destruirlo por completo y pasar al siguiente nivel.
+En el nivel 2, la nave después de esquivar los asteroides pequeños tendrá que lidiar con unos asteroides más grandes lo que hace  necesario el cambio de las municiones de la nave para poder destruirlo por completo y pasar al siguiente nivel.
 
 <p align="center">
   <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%202%20naves.PNG">
 </p>
 
 ## Nivel 3
-En el nivel 3 la nave ha logrado escapar de la zona de asteroides y de los ovnis alienigenas, nuestra nave se cruza con muchos satélites que orbitan a grandes velocidades y que son mas grandes y peligrosos que los asteroides.
+En el nivel 3, la nave ha logrado escapar de la zona de asteroides y de los ovnis alienigenas, nuestra nave se cruza con muchos satélites que orbitan a grandes velocidades y que son mas grandes y peligrosos que los asteroides.
 
 <p align="center">
-  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%201%20naves.PNG">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/Nivel%203%20naves.PNG">
 </p>
 
-## Nivel 4: Explosión de la estrella Cedafi
-El nivel 4 lo denominamos como la explosión de estrellas cedafi, en este nivel nuestra nave se enfrenta a los restos de la explosión de dicha estrella , su dificultada se basa en que los restos son pequeños y demasiado veloces, lo cual hace muy complicado esquivar y disparar a la vez.
+## Nivel 4
+El nivel 4, lo denominamos como la explosión de estrellas cedafi, en este nivel nuestra nave se enfrenta a los restos de la explosión de dicha estrella , su dificultada se basa en que los restos son pequeños y demasiado veloces, lo cual hace muy complicado esquivar y disparar a la vez.
 Por lo tanto hay que tener un poco mas de concentración y agilidad para sobrepasar este nuevo obstáculo y seguir con nuestro camino.
 <p align="center">
   <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%201%20naves.PNG">
