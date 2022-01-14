@@ -31,5 +31,5 @@ Por lo tanto hay que tener un poco mas de concentración y agilidad para sobrepa
 ## Nivel 5
 
 <p align="center">
-  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%201%20naves.PNG">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%205%20naves.PNG">
 </p>
