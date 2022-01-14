@@ -9,7 +9,7 @@
 ## Nivel 2
 
 <p align="center">
-  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%201%20naves.PNG">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%202%20naves.PNG">
 </p>
 
 ## Nivel 3
