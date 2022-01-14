@@ -29,7 +29,20 @@ Por lo tanto hay que tener un poco mas de concentración y agilidad para sobrepa
 </p>
 
 ## Nivel 5
+La explosión de la estrella Cedafi ha generado un agujero negro que ha ocasionado restos de basura cósmica muy pequeñas pero peligrosas, la nave debe esquivarlas para poder llegar a su planeta, si no llegara a esquivarla pierde todas sus vidas.
 
 <p align="center">
   <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%205%20naves.PNG">
 </p>
+
+De ganar el juego e indicará si se ganó o perdió.
+
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%205%20naves.PNG">
+</p>
+
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%205%20naves.PNG">
+</p>
+
+
