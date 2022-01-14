@@ -1,18 +1,21 @@
 # Naves-espaciales-UNMSM-
 
 ## Nivel 1
+En el nivel 1, la nave va a una velocidad estándar, los asteroides que tiene que atravesar son más grandes, eso hace que el nivel sea más fácil, está también cuenta con un lanzador de misiles con los que puede destruir los asteroides, destruir asteroides nos da puntos .
 
 <p align="center">
   <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%201%20naves.PNG">
 </p>
 
 ## Nivel 2
+En el nivel 2 la nave después de esquivar los asteroides pequeños tendrá que lidiar con unos asteroides más grandes lo que hace  necesario el cambio de las municiones de la nave para poder destruirlo por completo y pasar al siguiente nivel.
 
 <p align="center">
   <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%202%20naves.PNG">
 </p>
 
 ## Nivel 3
+En el nivel 3 la nave ha logrado escapar de la zona de asteroides y de los ovnis alienigenas, nuestra nave se cruza con muchos satélites que orbitan a grandes velocidades y que son mas grandes y peligrosos que los asteroides.
 
 <p align="center">
   <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%201%20naves.PNG">
