@@ -1,6 +1,11 @@
 # Naves-espaciales-UNMSM-
 El juego de naves es un juego de obstáculos para una sola persona, donde él es el piloto que está huyendo de una guerra galáctica del planeta Namekusei y tiene que dirigir la nave esquivando los diferentes obstáculos que se le presenta para llegar a la estación de su planeta Endor, cada nivel se va poniendo más complicado y van surgiendo nuevos retos, donde debe recoger combustible para poder llegar a su planeta. Si el jugador gana, es coronado como héroe del planeta Endor por haber llevado recursos al ejército endoriano que está peleando en el planeta Namekusei. 
 
+## Instrucciones
+* Se dispara con la letra z (minuscula de preferencia).
+* Se mueve con las teclas arriba, abajo, derecha e izquierda.
+* A medida de que se aumenta de nivel, se aumenta la velocidad y la dificultad. 
+
 ## Nivel 1
 La nave sale apresuradamente del planeta Namekusei y tiene que atravesar la zona de asteroides, tiene que esquivar los asteroides que cada vez son más numerosos, en el camino encontrará unos orbes que le ayudarán a recuperar energía a la nave espacial (combustible), luego de atravesar el primer anillo de asteroides, tendrá que atravesar el segundo con asteroides más grandes, además las naves del planeta Namekusei lo encontrarán y comenzarán a perseguir la nave. En el nivel 1, la nave va a una velocidad estándar, los asteroides que tiene que atravesar son más grandes, eso hace que el nivel sea más fácil, está también cuenta con un lanzador de misiles con los que puede destruir los asteroides, destruir asteroides nos da puntos .
 
