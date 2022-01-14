@@ -38,7 +38,7 @@ La explosión de la estrella Cedafi ha generado un agujero negro que ha ocasiona
 De ganar el juego e indicará si se ganó o perdió.
 
 <p align="center">
-  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/nivel%205%20naves.PNG">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-espaciales-UNMSM-FIEE/blob/main/winner.PNG">
 </p>
 
 <p align="center">
